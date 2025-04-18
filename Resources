@@ -1,0 +1,23 @@
+References:
+Bahga, A., & Madisetti, V. (2014). Internet of Things: A Hands-On Approach. Universities
+Press.
+Geddes, M. (2017). Arduino Project Handbook: 25 Practical Projects to Get You Started. No
+Starch Press.
+
+Tools/Software/Materials used
+• Microcontroller:
+◦ Arduino or Raspberry Pi for controlling devices
+◦ ESP8266 or ESP32 for Wi-Fi communication
+• Sensors:
+◦ Motion sensors (PIR)
+◦ Temperature sensors (DHT11/DHT22)
+◦ Light sensors (LDR)
+• Actuators:
+◦ Relay modules for switching devices on and off
+◦ Smart plugs or bulbs
+• Software:
+◦ Arduino IDE: For programming the microcontroller
+◦ Blynk: For developing the mobile app that interfaces with the hardware
+◦ Firebase: For storing data and providing cloud-based control
+• Other Components:
+◦ Jumper wires, breadboards, resistors, and other basic electronics components
